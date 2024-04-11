@@ -1,0 +1,1 @@
+# sequential-compounding-method
